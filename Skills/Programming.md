@@ -14,60 +14,60 @@
   - method:🖐️ used
   - class:🖐️ used
   - prototype:👂 heard
-  - event:👂 heard
+  - event:🖐️ used
   - type:🖐️ used
   - primitive types:🖐️ used
   - reference types:🖐️ used
   - flag:🖐️ used
-  - lexical scope:👂 heard
+  - lexical scope:🖐️ used
   - code block
   - conditions:🖐️ used
   - loops:🖐️ used
   - assignment:🖐️ used
-  - regular expression
-  - interface
-  - contract
-  - module:
+  - regular expression:👂 heard
+  - interface:👂 heard
+  - contract:👂 heard
+  - module:👂 heard
   - call stack:
 - Functions
-  - signature:👂 heard
+  - signature:🙋 explained
   - argument:🖐️ used
   - parameter:🖐️ used
-  - pure function:👂 heard
+  - pure function:🙋 explained
   - lambda expression:
-  - side effects:👂 heard
-  - closure
+  - side effects:🙋 explained
+  - closure:👂 heard
   - partial application
-  - curry
-  - higher order:👂 heard
-  - recursion:👂 heard
-  - callback:
+  - curry:👂 heard
+  - higher order:🙋 explained
+  - recursion:🖐️ used
+  - callback:👂 heard
   - listener
   - compose
   - pipe
   - memoize
   - wrapper
-  - functor
+  - functor:👂 heard
   - monad
   - monoid
   - generator
-  - coroutine
+  - coroutine:👂 heard
 - Data structures
   - array:🖐️ used
   - structure:🖐️ used
-  - record
-  - enum:👂 heard
-  - instance:👂 heard
+  - record:🙋 explained
+  - enum:🖐️ used
+  - instance:🖐️ used
   - object:🖐️ used
   - class:🖐️ used
   - collection:🙋 explained
-  - set
-  - hash table:👂 heard
+  - set:🙋 explained
+  - hash table:🙋 explained
   - linked list:👂 heard
-  - doubly list
+  - doubly list:🙋 explained
   - unrolled list
-  - circular list
-  - queue
+  - circular list:🙋 explained
+  - queue:🙋 explained
   - stack:👂 heard
   - deque
   - tree:👂 heard
@@ -76,31 +76,31 @@
   - mutable state
   - immutable state
   - serialization
-  - string parsing
+  - string parsing:👂 heard
 - Process & style
   - compiler:🙋 explained
   - transpiler:🙋 explained
   - linter
   - polyfill
   - debugger:🙋 explained
-  - garbage collection
-  - refactoring
+  - garbage collection:🙋 explained
+  - refactoring:🙋 explained
   - code review:👂 heard
   - antipatterns
-  - paradigm:
+  - paradigm:🙋 explained
   - algorithm:🙋 explained
-  - magic numbers
+  - magic numbers:🙋 explained
   - hardcode:🙋 explained
-  - complexity
-  - decomposition
-  - spaghetti:👂 heard
+  - complexity:🙋 explained
+  - decomposition:🙋 explained
+  - spaghetti:🙋 explained
   - silver bullet
-  - not invented here
+  - not invented here:🙋 explained
   - dead code:🙋 explained
-  - unreachable code
+  - unreachable code:🙋 explained
   - duplicate code:🙋 explained
-  - exception:👂 heard
+  - exception:🙋 explained
   - return early
   - unittest
-  - git
-  - github:👂 heard
+  - git:🙋 explained
+  - github:🖐️ used
