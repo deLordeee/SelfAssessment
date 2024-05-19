@@ -8,49 +8,49 @@
   - scalar:🖐️ used
   - literal:🖐️ used
   - expression:🖐️ used
-  - heap
+  - heap:🖐️ used
   - function:🖐️ used
   - procedure:🖐️ used
   - method:🖐️ used
   - class:🖐️ used
-  - prototype:👂 heard
+  - prototype:🖐️ used
   - event:🖐️ used
   - type:🖐️ used
   - primitive types:🖐️ used
   - reference types:🖐️ used
   - flag:🖐️ used
   - lexical scope:🖐️ used
-  - code block
+  - code block:🖐️ used
   - conditions:🖐️ used
   - loops:🖐️ used
   - assignment:🖐️ used
-  - regular expression:👂 heard
+  - regular expression:🖐️ used
   - interface:👂 heard
   - contract:👂 heard
   - module:👂 heard
-  - call stack:
+  - call stack:🖐️ used
 - Functions
   - signature:🙋 explained
   - argument:🖐️ used
   - parameter:🖐️ used
   - pure function:🙋 explained
-  - lambda expression:
+  - lambda expression:🖐️ used
   - side effects:🙋 explained
   - closure:👂 heard
-  - partial application
+  - partial application:👂 heard
   - curry:👂 heard
   - higher order:🙋 explained
   - recursion:🖐️ used
-  - callback:👂 heard
-  - listener
-  - compose
-  - pipe
-  - memoize
-  - wrapper
+  - callback:🖐️ used
+  - listener:🖐️ used
+  - compose:👂 heard
+  - pipe:👂 heard
+  - memoize:👂 heard
+  - wrapper:🖐️ used
   - functor:👂 heard
-  - monad
-  - monoid
-  - generator
+  - monad:👂 heard
+  - monoid:👂 heard
+  - generator:👂 heard
   - coroutine:👂 heard
 - Data structures
   - array:🖐️ used
@@ -63,30 +63,30 @@
   - collection:🙋 explained
   - set:🙋 explained
   - hash table:🙋 explained
-  - linked list:👂 heard
+  - linked list:🖐️ used
   - doubly list:🙋 explained
   - unrolled list
   - circular list:🙋 explained
   - queue:🙋 explained
-  - stack:👂 heard
-  - deque
-  - tree:👂 heard
-  - graph:👂 heard
-  - iterator:👂 heard
-  - mutable state
-  - immutable state
-  - serialization
-  - string parsing:👂 heard
+  - stack:🖐️ used
+  - deque:🖐️ used
+  - tree:🖐️ used
+  - graph:🖐️ used
+  - iterator:🖐️ used
+  - mutable state:🙋 explained
+  - immutable state:🙋 explained
+  - serialization:👂 heard
+  - string parsing:🖐️ used
 - Process & style
   - compiler:🙋 explained
   - transpiler:🙋 explained
-  - linter
-  - polyfill
+  - linter:👂 heard
+  - polyfill:👂 heard
   - debugger:🙋 explained
   - garbage collection:🙋 explained
   - refactoring:🙋 explained
   - code review:👂 heard
-  - antipatterns
+  - antipatterns:👂 heard
   - paradigm:🙋 explained
   - algorithm:🙋 explained
   - magic numbers:🙋 explained
@@ -94,13 +94,13 @@
   - complexity:🙋 explained
   - decomposition:🙋 explained
   - spaghetti:🙋 explained
-  - silver bullet
+  - silver bullet:👂 heard
   - not invented here:🙋 explained
   - dead code:🙋 explained
   - unreachable code:🙋 explained
   - duplicate code:🙋 explained
   - exception:🙋 explained
-  - return early
-  - unittest
+  - return early:🖐️ used
+  - unittest:🙋 explained
   - git:🙋 explained
   - github:🖐️ used

@@ -8,17 +8,17 @@
   - Functional programming:👂 heard
   - Prototype-based programming:👂 heard
   - Object-oriented programming:🙋 explained
-  - Object-based programming
-  - Generic programming
-  - Concurrent computing
+  - Object-based programming:🙋 explained
+  - Generic programming:🙋 explained
+  - Concurrent computing:👂 heard
   - Asyncronous programming:👂 heard
-  - Parallel programming
+  - Parallel programming:🖐️	used
   - Reactive programming:👂 heard
-  - FRP (Functional-reactive)
-  - Automata-based programming
-  - Domain-specific languages
+  - FRP (Functional-reactive):👂 heard
+  - Automata-based programming:👂 heard
+  - Domain-specific languages:👂 heard
   - Multi-paradigm programming:🙋 explained
-  - Metaprogramming
+  - Metaprogramming:Metaprogramming
   - Actor model
 - OOP basics
   - constructor:🙋 explained
@@ -33,34 +33,34 @@
   - Inheritance:🙋 explained
   - Parent class:🙋 explained
   - Polymorphism:🙋 explained
-  - Abstract class
-  - Interface
+  - Abstract class:👂 heard
+  - Interface:👂 heard
   - Encapsulation:🙋 explained
-  - Hidden class
-  - Object form
+  - Hidden class:👂 heard
+  - Object form:🖐️	used
   - instance:🙋 explained
-  - Introspection
-  - Reflection
+  - Introspection:👂 heard
+  - Reflection:👂 heard
 - Patterns
   - Singleton:👂 heard
-  - Factory Method
+  - Factory Method:🖐️	used
   - Abstract Factory
   - Adapter:👂 heard
-  - Observer
-  - Strategy
-  - Facade
-  - Proxy
-  - Chain of Responsibility
-  - Command
+  - Observer:👂 heard
+  - Strategy:👂 heard
+  - Facade:👂 heard
+  - Proxy:👂 heard
+  - Chain of Responsibility:👂 heard
+  - Command:👂 heard
   - Iterator:🙋 explained
-  - State
-  - Bridge
-  - Builder
-  - Prototype
-  - Composite
-  - Decorator
-  - Flyweight
-  - Mediator
-  - Memento
-  - Template Method
-  - Visitor
+  - State:🙋 explained
+  - Bridge:👂 heard
+  - Builder:👂 heard
+  - Prototype:🖐️	used
+  - Composite:👂 heard
+  - Decorator:👂 heard
+  - Flyweight:👂 heard
+  - Mediator:👂 heard
+  - Memento:👂 heard
+  - Template Method:👂 heard
+  - Visitor:👂 heard
